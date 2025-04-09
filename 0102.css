@@ -1,0 +1,25 @@
+.one div {
+    width: 400px;
+    height: 400px;
+    color: #fff;
+}
+
+.assign-3-shape-1 {
+    background-image: url(../css-assignment-5-8.png);
+    background-repeat: no-repeat;
+}
+
+.assign-3-shape-2 {
+    background-image: url(../css-assignment-5-8.png);
+    background-repeat: repeat-y;
+}
+
+.assign-3-shape-3 {
+    background-image: url(../css-assignment-5-8.png);
+    background-repeat: repeat-x;
+}
+
+.assign-3-shape-4 {
+    background-image: url(../css-assignment-5-8.png);
+    background-repeat: repeat;
+}

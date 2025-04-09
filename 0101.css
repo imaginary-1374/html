@@ -1,0 +1,26 @@
+.one div {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    color: #000;
+}
+
+.assign-3-shape-1 {
+    background-color: rgb(138 43 226);
+
+}
+
+.assign-3-shape-2 {
+    background-color: rgb(138 43 226 /50%);
+
+}
+
+.assign-3-shape-3 {
+    background-color: rgb(138 43 226 /10%);
+
+}
+
+.assign-3-shape-4 {
+    background-color: rgb(138 43 226 /1%);
+}
